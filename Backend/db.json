@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Máquina de Lavar",
+      "price": "4900",
+      "id": 1
+    },
+    {
+      "name": "iPhone 12",
+      "price": "12000",
+      "id": 2
+    },
+    {
+      "name": "Notebook Samsung",
+      "price": "10000",
+      "id": 3
+    },
+    {
+      "name": "Computador",
+      "price": "4700",
+      "id": 4
+    },
+    {
+      "name": "Playstation 4",
+      "price": "2000",
+      "id": 5
+    },
+    {
+      "name": "Playstation 5",
+      "price": "7000",
+      "id": 6
+    },
+    {
+      "name": "Geladeira",
+      "price": "1000",
+      "id": 7
+    },
+    {
+      "name": "Fogão Elétrico",
+      "price": "6000",
+      "id": 8
+    },
+    {
+      "name": "Sofá",
+      "price": "6000",
+      "id": 9
+    }
+  ]
+}
